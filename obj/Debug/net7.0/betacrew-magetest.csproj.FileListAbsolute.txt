@@ -1,0 +1,15 @@
+/workspaces/betacrew-magetest/bin/Debug/net7.0/betacrew-magetest
+/workspaces/betacrew-magetest/bin/Debug/net7.0/betacrew-magetest.deps.json
+/workspaces/betacrew-magetest/bin/Debug/net7.0/betacrew-magetest.runtimeconfig.json
+/workspaces/betacrew-magetest/bin/Debug/net7.0/betacrew-magetest.dll
+/workspaces/betacrew-magetest/bin/Debug/net7.0/betacrew-magetest.pdb
+/workspaces/betacrew-magetest/obj/Debug/net7.0/betacrew-magetest.csproj.AssemblyReference.cache
+/workspaces/betacrew-magetest/obj/Debug/net7.0/betacrew-magetest.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/betacrew-magetest/obj/Debug/net7.0/betacrew-magetest.AssemblyInfoInputs.cache
+/workspaces/betacrew-magetest/obj/Debug/net7.0/betacrew-magetest.AssemblyInfo.cs
+/workspaces/betacrew-magetest/obj/Debug/net7.0/betacrew-magetest.csproj.CoreCompileInputs.cache
+/workspaces/betacrew-magetest/obj/Debug/net7.0/betacrew-magetest.dll
+/workspaces/betacrew-magetest/obj/Debug/net7.0/refint/betacrew-magetest.dll
+/workspaces/betacrew-magetest/obj/Debug/net7.0/betacrew-magetest.pdb
+/workspaces/betacrew-magetest/obj/Debug/net7.0/betacrew-magetest.genruntimeconfig.cache
+/workspaces/betacrew-magetest/obj/Debug/net7.0/ref/betacrew-magetest.dll
